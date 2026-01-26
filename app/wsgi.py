@@ -1,5 +1,5 @@
 # app/wsgi.py
-from application import app
+from app.application import app
 
 
 if __name__ == "__main__":
